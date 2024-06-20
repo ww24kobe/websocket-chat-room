@@ -4,9 +4,12 @@
 
 - 基于[socket.io](https://socket.io/) + [express 框架](https://expressjs.com/)搭建的聊天室
 
-## 启动项目
+## 部署项目
 
 ```js
+git clone https://github.com/ww24kobe/websocket-chat-room.git
+cd websocket-chat-room
+pnpm i
 node server.js
 ```
 
